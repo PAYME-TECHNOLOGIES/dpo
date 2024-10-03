@@ -1,6 +1,6 @@
 <?php
 
-namespace Payme\Dpo;
+namespace PaymeTech\Dpo;
 
 
 class Dpo

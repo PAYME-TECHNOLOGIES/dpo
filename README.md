@@ -7,7 +7,7 @@
 You can install the package via composer:
 
 ```bash
-composer require payme/dpo
+composer require payme-tech/dpo
 ```
 
 ## Usage
