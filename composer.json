@@ -1,0 +1,42 @@
+{
+    "name": "payme/dpo",
+    "description": "Php wrapper of dpo ( direct pay online ) api",
+    "keywords": [
+        "payme",
+        "dpo"
+    ],
+    "homepage": "https://github.com/payme/dpo",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "PAYME TECHNOLOGIES",
+            "email": "info@payme.co.tz",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Payme\\Dpo\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Payme\\Dpo\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
