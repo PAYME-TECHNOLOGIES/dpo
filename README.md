@@ -1,10 +1,6 @@
-# Very short description of the package
-
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/payme/dpo.svg?style=flat-square)](https://packagist.org/packages/payme/dpo)
 [![Total Downloads](https://img.shields.io/packagist/dt/payme/dpo.svg?style=flat-square)](https://packagist.org/packages/payme/dpo)
 ![GitHub Actions](https://github.com/payme/dpo/actions/workflows/main.yml/badge.svg)
-
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
 
 ## Installation
 
@@ -17,7 +13,7 @@ composer require payme/dpo
 ## Usage
 
 ```php
-// Usage description here
+
 ```
 
 ### Testing
@@ -40,13 +36,9 @@ If you discover any security related issues, please email info@payme.co.tz inste
 
 ## Credits
 
--   [PAYME TECHNOLOGIES](https://github.com/payme)
--   [All Contributors](../../contributors)
+- [PAYME TECHNOLOGIES](https://github.com/PAYME-TECHNOLOGIES)
+- [All Contributors](../../contributors)
 
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-## PHP Package Boilerplate
-
-This package was generated using the [PHP Package Boilerplate](https://laravelpackageboilerplate.com) by [Beyond Code](http://beyondco.de/).
